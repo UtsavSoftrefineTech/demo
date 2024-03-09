@@ -40,7 +40,7 @@ Each section of this guide is meticulously crafted to provide clear explanations
 
 Let's embark on this enriching journey together as we unlock the boundless possibilities of ReactJS for frontend development!
 
----
+----
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/UtsavSoftrefineTech)](https://github.com/UtsavSoftrefineTech)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsavdesai26/)](https://www.linkedin.com/in/utsavdesai26/)

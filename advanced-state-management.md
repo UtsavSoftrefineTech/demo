@@ -80,6 +80,26 @@ const useStore = create(set => ({
 export default useStore;
 ```
 
+```javascript
+// CounterComponent.js
+import React from 'react';
+import useStore from './store';
+
+const CounterComponent = () => {
+  const { count, increment, decrement } = useStore();
+
+  return (
+    <div>
+      <h1>Count: {count}</h1>
+      <button onClick={increment}>Increment</button>
+      <button onClick={decrement}>Decrement</button>
+    </div>
+  );
+};
+
+export default CounterComponent;
+```
+
 ### 3. MobX
 
 MobX is a simple and scalable state management library that makes state management in React applications effortless. It follows the principle of observable state, where changes to state automatically trigger re-rendering of components that depend on it. MobX offers a reactive programming model, enabling developers to create complex applications with minimal effort.
@@ -115,6 +135,27 @@ class CounterStore {
 
 const counterStore = new CounterStore();
 export default counterStore;
+```
+
+```javascript
+// CounterComponent.js
+import React from 'react';
+import { observer } from 'mobx-react-lite';
+import counterStore from './store';
+
+const CounterComponent = observer(() => {
+  const { count, increment, decrement } = counterStore;
+
+  return (
+    <div>
+      <h1>Count: {count}</h1>
+      <button onClick={increment}>Increment</button>
+      <button onClick={decrement}>Decrement</button>
+    </div>
+  );
+});
+
+export default CounterComponent;
 ```
 
 ### 4. Recoil

@@ -105,6 +105,8 @@ describe('MyComponent', () => {
 
 Testing ReactJS components using Jest and Enzyme is essential for maintaining code quality and ensuring the reliability of your applications. By following best practices and writing comprehensive tests, you can confidently develop React applications that meet user expectations and stand the test of time.
 
+👉 [Advanced Testing in React](advanced-testing.md)
+
 ----
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/UtsavSoftrefineTech)](https://github.com/UtsavSoftrefineTech)

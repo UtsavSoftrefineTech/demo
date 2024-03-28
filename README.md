@@ -44,6 +44,8 @@ Let's embark on this enriching journey together as we unlock the boundless possi
 
 ----
 
+<div align="center">
+
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/UtsavSoftrefineTech)](https://github.com/UtsavSoftrefineTech)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsavdesai26/)](https://www.linkedin.com/in/utsavdesai26/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/UtsavDesai26)](https://www.hackerrank.com/profile/UtsavDesai26)
@@ -51,3 +53,5 @@ Let's embark on this enriching journey together as we unlock the boundless possi
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:desaiutsav26@gmail.com)](mailto:desaiutsav26@gmail.com)
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/desaiutsav26/)](https://leetcode.com/desaiutsav26/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&link=https://medium.com/@utsavdesai26)](https://medium.com/@utsavdesai26)
+
+</div>

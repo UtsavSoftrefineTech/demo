@@ -1,8 +1,8 @@
-![Utsav Desai](https://github.com/UtsavSoftrefineTech/demo/assets/135974253/c078b2a6-563b-4e62-af17-3fb13fce74a1)
-
-# Welcome to the Ultimate ReactJS Comprehensive Guide for Frontend Developers
-
-Welcome to the Ultimate ReactJS Comprehensive Guide for Frontend Developers! Whether you're a seasoned developer venturing into the React ecosystem or a newcomer eager to harness the power of dynamic user interfaces, you've landed at the perfect destination. This guide serves as your gateway to understanding the core principles of ReactJS, mastering its concepts, and building robust web applications for the frontend.
+<div align="center">
+  <img src="https://github.com/UtsavSoftrefineTech/demo/assets/135974253/c078b2a6-563b-4e62-af17-3fb13fce74a1" alt="Utsav Desai">
+  <h1>Welcome to the Ultimate ReactJS Comprehensive Guide for Frontend Developers</h1>
+  <p>Welcome to the Ultimate ReactJS Comprehensive Guide for Frontend Developers! Whether you're a seasoned developer venturing into the React ecosystem or a newcomer eager to harness the power of dynamic user interfaces, you've landed at the perfect destination. This guide serves as your gateway to understanding the core principles of ReactJS, mastering its concepts, and building robust web applications for the frontend.</p>
+</div>
 
 ## Understanding ReactJS: A Brief Overview
 
@@ -12,10 +12,10 @@ ReactJS, developed by Facebook, is a powerful JavaScript library tailored for cr
 
 ReactJS has gained widespread adoption among developers for several compelling reasons:
 
-1. **Declarative Syntax**: ReactJS advocates a declarative approach, enabling developers to define how the UI should appear based on the application state, ensuring efficient DOM updates.
-2. **Component-Based Architecture**: With its modular and reusable components, ReactJS simplifies the management of complex user interfaces, promoting code reusability and maintainability.
-3. **Virtual DOM**: ReactJS leverages a virtual DOM mechanism, optimizing DOM manipulation for enhanced performance and seamless user experiences.
-4. **Rich Ecosystem**: Supported by a vibrant community and an extensive ecosystem of libraries and tools, ReactJS offers comprehensive support for building feature-rich applications on the frontend.
+1. <strong>Declarative Syntax</strong>: ReactJS advocates a declarative approach, enabling developers to define how the UI should appear based on the application state, ensuring efficient DOM updates.
+2. <strong>Component-Based Architecture</strong>: With its modular and reusable components, ReactJS simplifies the management of complex user interfaces, promoting code reusability and maintainability.
+3. <strong>Virtual DOM</strong>: ReactJS leverages a virtual DOM mechanism, optimizing DOM manipulation for enhanced performance and seamless user experiences.
+4. <strong>Rich Ecosystem</strong>: Supported by a vibrant community and an extensive ecosystem of libraries and tools, ReactJS offers comprehensive support for building feature-rich applications on the frontend.
 
 ## Prerequisites for Mastering ReactJS
 
@@ -45,13 +45,11 @@ Let's embark on this enriching journey together as we unlock the boundless possi
 ----
 
 <div align="center">
-
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/UtsavSoftrefineTech)](https://github.com/UtsavSoftrefineTech)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsavdesai26/)](https://www.linkedin.com/in/utsavdesai26/)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/UtsavDesai26)](https://www.hackerrank.com/profile/UtsavDesai26)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/22878781/utsav-desai)](https://stackoverflow.com/users/22878781/utsav-desai)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:desaiutsav26@gmail.com)](mailto:desaiutsav26@gmail.com)
-[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/desaiutsav26/)](https://leetcode.com/desaiutsav26/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&link=https://medium.com/@utsavdesai26)](https://medium.com/@utsavdesai26)
-
+  <a href="https://github.com/UtsavSoftrefineTech" style="margin-right: 20px;"><img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/utsavdesai26/" style="margin-right: 20px;"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.hackerrank.com/profile/UtsavDesai26" style="margin-right: 20px;"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
+  <a href="https://stackoverflow.com/users/22878781/utsav-desai" style="margin-right: 20px;"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="mailto:desaiutsav26@gmail.com" style="margin-right: 20px;"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://leetcode.com/desaiutsav26/" style="margin-right: 20px;"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="Leetcode"></a>
+  <a href="https://medium.com/@utsavdesai26"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" alt="Medium"></a>
 </div>
